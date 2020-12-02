@@ -1,0 +1,1 @@
+Just run the Java file on Eclipse or IntelliJ

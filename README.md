@@ -1,1 +1,2 @@
 # AI-Checkers
+This is a project that demonstrates how a minimax algorithm can be used in checkers. It also uses alpha-beta pruning to decrease the amount of options by removing moves when they are determined to be worse than any other move. If you want to try to beat the AI or test it out you can run the Java project (I used Eclipse when making it) and use the modified GUI sourced from http://math.hws.edu/eck/cs124/javanotes6/source/Checkers.java. Or if you want to watch to AI players battle it out you can comment out line 474 and uncomment line 475.
